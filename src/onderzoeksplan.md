@@ -1,5 +1,18 @@
-# Onderzoeksplan
+# Terraform: Infrastructure as Code eenvoudig gemaakt
 
-Lees en volg de [workshop-prompt-engineering](https://minordevops.nl/week-5-slack-ops/workshop-onderzoeksplan-prompt-engineering.html).
+**Hoofdvraag:**  
+Hoe draagt terrafrom bij aan het efficient beheren van cloud infrastructure as code?
 
-Verzin o.a. een titel voor je blog, pas de folder naam hier op aan en gebruik [kebab-case](https://en.toolpage.org/tool/kebabcase).
+**Deelvragen en Onderzoeksmethoden:**
+
+1. **Wat zijn de kernprincipes van Terraform en Infrastructure as Code (IaC)?**  
+   _Onderzoeksmethode:_ Literatuuronderzoek
+
+2. **Wat zijn de voordelen van Terraform ten opzichte van andere infrastructuurbeheer tools?**  
+   _Onderzoeksmethode:_ Literatuuronderzoek
+
+3. **Hoe ondersteunt Terraform de schaalbaarheid en onderhoudbaarheid van grote infrastructuren?**  
+   _Onderzoeksmethode:_ Literatuuronderzoek
+
+4. **Hoe pas ik Terraform binnen AWS toe?**  
+   _Onderzoeksmethode:_ Experiment
